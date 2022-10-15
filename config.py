@@ -1,1 +1,0 @@
-tiingo_key = 'e4f3d612fc991b9fb9392e285f38bb08b971a985'
